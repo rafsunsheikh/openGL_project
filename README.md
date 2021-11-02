@@ -21,7 +21,7 @@ The Project is created in Ubuntu, using the FreeGlut library. So for the windows
 # Details:
 1. in the scene the clouds and birds are the moving object.
 2. The scene changes between day and night with the key press 'd' and 'n'
-3. During the night the movement of bitds are restricted.
+3. During the night the movement of birds are restricted.
 
 ### License
 
