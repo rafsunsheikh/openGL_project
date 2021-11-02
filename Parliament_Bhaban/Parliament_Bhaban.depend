@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635745890 source:/home/rafsunsheikh/Desktop/Graphics Lab/Parliament_Bhaban/main.cpp
+	<cstdio>
+	<math.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
