@@ -11,3 +11,8 @@ The Project is created in Ubuntu, using the FreeGlut library. So for the windows
 
 # ScreenShot
 ## Day image 
+![alt text](https://github.com/rafsunsheikh/openGL_project/blob/main/Parliament_Bhaban/screenshots/parliament_day.png)
+
+
+## Night image 
+![alt text](https://github.com/rafsunsheikh/openGL_project/blob/main/Parliament_Bhaban/screenshots/parliament_night.png)
